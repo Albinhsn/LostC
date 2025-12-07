@@ -6,7 +6,8 @@
 * Make a tilemap editor
  * Change aabb collision of tiles
 * Level editor 
- * Ability to add:
+ * Need a format for this as well!
+ * Ability to add/change:
   * Tiles
   * Grass 
   * Spikes
@@ -18,13 +19,20 @@
   * Exit point
   * Trees, randomize position etc
   * Water
+  * Fire
+  * Rain
   * Fog
   * Dialogue events
- * Need a format for this as well!
+  * Particle system?
+   * Leafs
+   * Boss
 * Make a 2D sprite animation editor
 
 ## Rendering
 * Draw a tile map
+* Draw the ground plane
+* Add the background plane
+* Fix directional shadow mapping
 * Port shaders
  * Water shader
  * Bubbles
